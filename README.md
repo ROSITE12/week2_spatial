@@ -21,4 +21,3 @@ Aquí está la información organizada en una tabla con tres entradas:
 --------
 - 😺 enlace a la tarea: https://rosite12.github.io/week2_spatial/tarea2.html
 - 😺 enlace a la visualización de mapas: https://rosite12.github.io/week2_spatial/data/PERUMaps_24891.gpkg
-- https://github.com/ROSITE12/week2_spatial/blob/main/data/PERUMaps_24891.gpkg
