@@ -20,4 +20,4 @@ Aquí está la información organizada en una tabla con tres entradas:
 ![output](https://github.com/user-attachments/assets/d03dd625-e63d-455a-a440-ab5afd1a3b14)
 --------
 - 😺 enlace a la tarea: https://rosite12.github.io/week2_spatial/tarea2.html
-- 😺 enlace a la visualización de mapas: https://github.com/ROSITE12/week2_spatial/blob/main/data/PERUMaps_24891.gpkg
+- 😺 enlace a la visualización de mapas: https://rosite12.github.io/week2_spatial/PERUMaps_24891.gpkg
